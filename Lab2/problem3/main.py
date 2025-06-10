@@ -1,6 +1,6 @@
 """
 Q3: 以學生證號作為種子，進行區塊鏈挖礦，每個區塊成功時僅記錄一行。
-符合題目格式：
+題目格式：
     1) [preImage]
     2) [Round X without nonce] ... 或 [Round X with nonce deadbeef] ...
     3) [EROR] ...
